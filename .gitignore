@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+playwright-report/
+test-results/
+artifacts/
+design-reference/
+*.tsbuildinfo
+*.log
+.DS_Store
+
+supabase/.temp/
